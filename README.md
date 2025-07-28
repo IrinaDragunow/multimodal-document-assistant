@@ -1,8 +1,23 @@
 # 🤖 Multimodal RAG System
 
+<style>
+h1, h2, h3, h4, h5, h6 {
+  color: #221512 !important;
+}
+h2 {
+  color: #72463B !important;
+}
+a {
+  color: #B49E94 !important;
+}
+strong {
+  color: #221512 !important;
+}
+</style>
+
 An intelligent document chat system that processes PDFs and images using OpenAI GPT-4o.
 
-## 🌐 **[🚀 LIVE DEMO - TRY IT NOW!](https://multimodal-rag-system-demo.streamlit.app/)**
+## 🌐 **<a href="https://multimodal-rag-system-demo.streamlit.app/" target="_blank">🚀 LIVE DEMO - TRY IT NOW!</a>**
 
 *Experience AI-powered document analysis in action! Upload PDFs and images to see multimodal capabilities.*
 
@@ -55,7 +70,7 @@ streamlit run app.py
 
 ## 🎯 Usage
 
-1. **🌐 [Visit the Live Demo](https://multimodal-rag-system-demo.streamlit.app/)**
+1. **🌐 <a href="https://multimodal-rag-system-demo.streamlit.app/" target="_blank">Visit the Live Demo</a>**
 2. **Upload documents:** Use the upload areas for PDF files or images
 3. **Ask questions:** Enter your question in the text field
 4. **Get AI responses:** The system analyzes your documents and provides intelligent answers
@@ -84,7 +99,7 @@ The application features a clean, Apple-inspired design with:
 
 ## 🔗 Links
 
-- **🌐 [Live Demo](https://multimodal-rag-system-demo.streamlit.app/)**
+- **🌐 <a href="https://multimodal-rag-system-demo.streamlit.app/" target="_blank">Live Demo</a>**
 - **📂 [GitHub Repository](https://github.com/IrinaDragunow/multimodal-rag-system)**
 - **👩‍💻 [Developer Profile](https://github.com/IrinaDragunow)**
 
@@ -152,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Irina Dragunow**
 - GitHub: [@IrinaDragunow](https://github.com/IrinaDragunow)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Live Demo: [multimodal-rag-system-demo.streamlit.app](https://multimodal-rag-system-demo.streamlit.app/)
+- Live Demo: <a href="https://multimodal-rag-system-demo.streamlit.app/" target="_blank">multimodal-rag-system-demo.streamlit.app</a>
 
 ## 🎯 Project Goals
 
@@ -176,12 +191,13 @@ This project demonstrates:
 
 ---
 
-*Built as a portfolio project for Machine Learning Engineer roles. Showcases practical skills in AI integration, web development, and cloud deployment.*
+*Built as a portfolio project for Machine Learning Engineer job applications. Showcases practical skills in AI integration, web development, and cloud deployment.*
 
 ## 📞 Contact
 
 For questions about this project or collaboration opportunities, please reach out via:
-- **LinkedIn:** [Irina Dragunow]
+- **Email:** [your.email@example.com]
+- **LinkedIn:** [Your LinkedIn Profile]
 - **GitHub Issues:** [Create an issue](https://github.com/IrinaDragunow/multimodal-rag-system/issues)
 
 ---
