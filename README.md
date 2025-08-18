@@ -64,7 +64,7 @@ streamlit run app.py
 
 **Irina Dragunow**
 - GitHub: [@IrinaDragunow](https://github.com/IrinaDragunow)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/irinadragunow)
 - Live Demo: [multimodal-rag-system-demo.streamlit.app](https://multimodal-rag-system-demo.streamlit.app/)
 
 ## 🎯 Project Highlights
