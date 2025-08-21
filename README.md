@@ -116,8 +116,8 @@ PDF/Image Input → OpenAI GPT-4o → Structured Analysis
 ### Option 2: Local Development
 ```bash
 # Clone repository
-git clone https://github.com/irinadragunow/multimodal-rag-system.git
-cd multimodal-rag-system
+git clone https://github.com/IrinaDragunow/multimodal-document-assistant.git
+cd multimodal-document-assistant
 
 # Install dependencies
 pip install -r requirements.txt
@@ -286,7 +286,7 @@ This system demonstrates **API integration expertise** and **multimodal AI appli
 
 ### Project Structure
 ```
-multimodal-rag-system/
+multimodal-document-assistant/
 ├── app.py                      # Main Streamlit application
 ├── requirements.txt            # Python dependencies
 ├── README.md                  # Project documentation
